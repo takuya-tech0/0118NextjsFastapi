@@ -15,7 +15,7 @@ export default async function NightPage() {
   // 以下をレンダリングします
   return (
     <div>
-      <h1>Flaskからのレスポンス</h1>
+      <h1>Fastapiからのレスポンス</h1>
       <p>{data}</p>
     </div>
   );
