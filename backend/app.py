@@ -34,7 +34,7 @@ async def hello_night_world():
 
 # # 簡単なユーザーデータベース（実際の実装ではセキュアな方法で保存する必要があります）
 # users = {
-#     'yagimasa': 'password123',
+#     'bani': 'password123',
 #     'lego': 'password456'
 # }
 
